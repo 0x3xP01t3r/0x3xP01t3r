@@ -108,11 +108,11 @@ focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
   <img src="https://img.shields.io/badge/Docker_Hub-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/marabit">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="https://x.com/your-x">
+<a href="https://x.com/3xpl01t3rr">
   <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
 
