@@ -78,7 +78,7 @@ focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
 ### `# certifications`
 
 <div align="center">
-
+<img src="https://img.shields.io/badge/CRTP-Certified%20Red%20Team%20Professional-DC143C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CRTA-Red%20Team%20Analyst-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/eWPTX-Web%20Pentesting%20eXtreme-FF6F00?style=for-the-badge"/>
 
