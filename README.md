@@ -23,7 +23,7 @@ I'm **Abdullhafeeth Marabit** — Offensive Security Engineer focused on:
 - Web Exploitation  
 - Red Team Operations  
 
-Senior member at **JordanSec**.
+
 
 ```yaml
 location:      Jordan
