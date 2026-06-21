@@ -78,14 +78,13 @@ focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
 ### `# certifications`
 
 <div align="center">
-<img src="https://img.shields.io/badge/CRTP-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/eWPTX-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/eCPPT-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRTA-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRTP-Certified%20Red%20Team%20Professional-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eWPTX-Web%20Pentesting%20eXtreme-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eCPPT-Certified%20Professional%20Penetration%20Tester-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRTA-Red%20Team%20Analyst-1F6FEB?style=for-the-badge"/>
+</div>
 
-
-
-<br/><br/>
+<br/>
 
 ~~~text
 + CRTP      → Active Directory / Red Team Operations / Privilege Escalation
@@ -94,7 +93,6 @@ focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
 + CRTA      → Red Teaming / Active Directory / Internal Attacks
 + JordanSec → Web Exploiter & Reverse Engineer
 ~~~
-
 </div>
 
 ---
