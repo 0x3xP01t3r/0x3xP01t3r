@@ -89,8 +89,8 @@ focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
 
 ```diff
 + CRTP   → Active Directory / Red Team Operations / Privilege Escalation
++ eCPPT  → Network PenTester / Active Directory / Privilege Escalation
 + eWPTX  → Advanced Web Exploitation / Chains / WAF Bypass
-+ eCPPT  → Network PenTester / Chains / Active Directory / Privilege Escalation
 + CRTA   → Red Teaming / Active Directory / Internal Attacks
 + JordanSec →  Web Exploiter & Reverse Engineer
 ```
