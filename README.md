@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=200&section=header&text=Abdullhafeeth%20Marabit&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Offensive%20Security%20Engineer%20%E2%80%A2%20Red%20Team%20Operator&descAlignY=60&descSize=16&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=200&section=header&text=Abdullhafeeth%20Marabit&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20Engineer&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullhafeeth+Marabit;Offensive+Security+Engineer;+%7C+Pentester;Web+Exploitation+%26" alt="intro"/>
