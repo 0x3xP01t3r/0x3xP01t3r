@@ -18,20 +18,21 @@
 
 ### `# whoami`
 
-I'm **Abdullhafeeth Marabit** — Offensive Security Engineer focused on:
+I'm **Abdullhafeeth Marabit** — Offensive Security focused on:
 
 - Web Exploitation  
-- Red Team Operations  
+- Network Pentest
+- Mobile  Pentest
 
 
 
 ```yaml
 location:      Jordan
-role:           Pentester
+role:          Pentester
 team:          JordanSec (Organizer)
 languages:     [ C, C++, Python, PHP, Bash, Assembly ]
 web:           [ HTML, CSS, JavaScript (basic) ]
-focus:         [ Web Exploitation,  ]
+focus:         [ Web Exploitation ]
 ```
 
 ---
