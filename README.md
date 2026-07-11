@@ -105,11 +105,6 @@ focus:         [ Web Exploitation ]
 <a href="https://github.com/0x3xP01t3r">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
-
-<a href="https://hub.docker.com/u/0x3xp01t3r">
-  <img src="https://img.shields.io/badge/Docker_Hub-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-</a>
-
 <a href="https://linkedin.com/in/marabit">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
