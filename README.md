@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=200&section=header&text=Abdullhafeeth%20Marabit&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cybersecurity%20Enthusiast%&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullhafeeth+Marabit;Offensive+Security+Engineer;+%7C+Pentester;Web+Exploitation+%26" alt="intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullhafeeth+Marabit;Offensive+Security+Engineer;+%7C+Pentester;Web+Exploitation" alt="intro"/>
 
   <br/>
 
@@ -27,11 +27,11 @@ I'm **Abdullhafeeth Marabit** — Offensive Security Engineer focused on:
 
 ```yaml
 location:      Jordan
-role:          Red Team Operator / Pentester
+role:           Pentester
 team:          JordanSec (Organizer)
 languages:     [ C, C++, Python, PHP, Bash, Assembly ]
 web:           [ HTML, CSS, JavaScript (basic) ]
-focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
+focus:         [ Web Exploitation,  ]
 ```
 
 ---
@@ -87,11 +87,11 @@ focus:         [ Web Exploitation, Reverse Engineering, Red Teaming ]
 <br/>
 
 ~~~text
-+ CRTP      → Active Directory / Red Team Operations / Privilege Escalation
++ CRTP      → Active Directory / Privilege Escalation
 + eWPTX     → Advanced Web Exploitation / Chains / WAF Bypass
 + eCPPT     → Network PenTester / Active Directory / Privilege Escalation
 + CRTA      → Red Teaming / Active Directory / Internal Attacks
-+ JordanSec → Web Exploiter & Reverse Engineer
++ JordanSec → Web Exploitation
 ~~~
 </div>
 
