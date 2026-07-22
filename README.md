@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullhafeeth+Marabit;Offensive+Security;Pentester;Web+Exploitation" alt="intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullhafeeth+Marabit;Pentester;Web+Exploitation" alt="intro"/>
 
   <br/>
 
