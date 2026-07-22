@@ -76,7 +76,6 @@ I'm **Abdullhafeeth Marabit** — Offensive Security focused on:
 + eWPTX     → Advanced Web Exploitation / Chains / WAF Bypass
 + eCPPT     → Network PenTester / Active Directory / Privilege Escalation
 + CRTA      → Red Teaming / Active Directory / Internal Attacks
-+ JordanSec → Web Exploitation
 ~~~
 </div>
 
